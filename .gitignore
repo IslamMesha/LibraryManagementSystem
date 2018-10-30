@@ -102,4 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-LMS/__init__.py
+*/migrations/*
